@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá! Eu sou Guilherme 👋
 
-<!--
-**Guilhermeweber25/Guilhermeweber25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack Júnior
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- Java
+- Spring Boot
+- JavaScript
+- MySQL
+- HTML/CSS
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+- APIs REST
+- Docker
+- Arquitetura Backend
+- Segurança JWT
+
+## 🔥 Projetos
+- Sistema de otimização de estoque
+- API com autenticação JWT
+- Integração WhatsApp API
+
+## 📫 Contato
+- LinkedIn: coloque aqui
+- Email: coloque aqui
