@@ -28,5 +28,12 @@ Atualmente estudando e desenvolvendo projetos utilizando Java, Spring Boot, Java
 
 ## Contato
 
-LinkedIn: linkedin.com/in/guilhermesthevamweber 
+LinkedIn: www.linkedin.com/in/guilherme-sthevam-weber-b56533398 
+
+---
+
 Email: guilherme25weber@gmail.com
+
+---
+
+Workana: www.workana.com/e/a07384c1779dc2136576493e7453568d
